@@ -14,6 +14,11 @@
     object-fit: cover;
 }
 
+/* .gallery-item:hover {
+    width: 376px;
+    height: 208px;
+} */
+
 .gallery-link {}
 
 .gallery-image {
@@ -21,3 +26,9 @@
     width: 360px;
     height: 200px;
 }
+
+/* .gallery-image:hover {
+    display: block;
+    width: 376px;
+    height: 208px;
+} */
